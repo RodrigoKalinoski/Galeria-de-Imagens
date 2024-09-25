@@ -1,4 +1,4 @@
-## Iniciando o projeto
+## Iniciando o projeto - Branch Digo
 
 Para poder abrir o projeto, você precisa executar os seguintes comandos no terminal com o projeto aberto (e tendo PHP && Composer instalados em sua máquina):
 
